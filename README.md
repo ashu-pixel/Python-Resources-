@@ -5,7 +5,7 @@
 - Concept best understood when you type out code and successfull run it. 
 - Following the order in which topics are mentioned. 
 - Feel free to google more on topics which you find a bit difficult to understand.   
-
+- [AskPython](https://www.askpython.com/)
 
 
 
