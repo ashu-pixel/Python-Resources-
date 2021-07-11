@@ -5,8 +5,6 @@
 - Concept best understood when you type out code and successfull run it. 
 - Following the order in which topics are mentioned. 
 - Feel free to google more on topics which you find a bit difficult to understand.   
-- [AskPython](https://www.askpython.com/)
-
 
 
 ### 1. [ Introduction to Python ](https://docs.google.com/document/d/1c_uS-KXuvEd7E2uGMUCqGFWlOJpgMVHrLUf1VHvHVY0/edit?usp=sharing)
@@ -132,3 +130,5 @@
 > - Matplotlib in Python
 
 
+
+# [AskPython](https://www.askpython.com/)
