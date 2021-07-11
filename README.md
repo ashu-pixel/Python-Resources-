@@ -128,7 +128,3 @@
 ### 10. [Pandas and Matplotlib](https://docs.google.com/document/d/1h9RVNtLtNo1fuP3oQGpSeU3JGTGf21XtTVYt3yNrAVI/edit#heading=h.32srlqjjra89)
 > - Pandas in Python
 > - Matplotlib in Python
-
-
-
-# [AskPython](https://www.askpython.com/)
